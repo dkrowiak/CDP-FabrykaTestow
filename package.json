@@ -1,0 +1,23 @@
+{
+  "name": "cdp-fabrykatestow",
+  "version": "1.0.0",
+  "description": "cdp course by fabrykatestow.pl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkrowiak/CDP-FabrykaTestow.git"
+  },
+  "author": "dkrowiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkrowiak/CDP-FabrykaTestow/issues"
+  },
+  "homepage": "https://github.com/dkrowiak/CDP-FabrykaTestow#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "@faker-js/faker": "^7.6.0"
+  }
+}
